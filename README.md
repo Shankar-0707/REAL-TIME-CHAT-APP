@@ -42,3 +42,7 @@ This chat application is perfect for beginners learning React. It eliminates the
 
 Final Thoughts
 Our Real-Time Chat Application is a simple yet powerful frontend project that demonstrates how easy it is to build a chat app without a backend. It is lightweight, responsive, and provides an interactive user experience. Whether you're a beginner looking to practice React or an enthusiast exploring real-time communication, this project serves as a great foundation. 🚀🔥
+
+
+![Screenshot 2025-03-25 215010](https://github.com/user-attachments/assets/37cf96ef-2845-495e-8d0f-94f1eb1b6047)
+
